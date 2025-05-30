@@ -1,3 +1,5 @@
+create a database, name as spam_detection.
+
 Import the csv file to your database.
 
 For Creating History
