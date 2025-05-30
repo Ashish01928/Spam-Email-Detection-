@@ -1,6 +1,6 @@
 create a database, name as spam_detection.
 
-Import the csv file to your database.
+Import the csv file to your database and name the table as dataset.
 
 For Creating History
 
